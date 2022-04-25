@@ -1,2 +1,2 @@
 # sql-nosql-query
-big query for access, prepere and send data 
+big query for access, prepere and big data connector
